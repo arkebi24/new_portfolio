@@ -173,6 +173,7 @@ h1,h2,h3,h4,h5
         background: url('../images/mybg1.jpg');
         background-size: cover;
         background-repeat: no-repeat;
+        background-attachment: fixed;
         padding-top: 120px;
         padding-bottom: 140px;
         text-align: center;
